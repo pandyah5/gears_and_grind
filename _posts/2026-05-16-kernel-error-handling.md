@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux Kernel Error Handling"
-date: 2026-05-16 12:00:00 -0000
+date: 2026-05-15 12:00:00 -0000
 categories: kernel
 ---
 
